@@ -1,0 +1,19 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Hi, I am Atishay
+bot : - good to know. how may i assist you then?
+user : I am not feeling well today
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : I am shivering
+bot : - This is a symptom of fever or corona virus, you should take a tablet of crocin after you have your meal and try to isolate yourself.
+user : Okay, I took the tablet
+bot : - Good, so how are you feeling now?
+user : I am still not feeling better
+bot : - Ok, its not just a normal fever, you should consult a doctor.
+user : Okay, can you book an appointment for me
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
+user : Atishay 11March Mr.Gupta CityHospital
+bot : - appointment details saved. you shall be contacted shortly.
+user : Thank you
+bot : - happy to help!
+user : bye
+bot : - Bye. Nice talking to you
